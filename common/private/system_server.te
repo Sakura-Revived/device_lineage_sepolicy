@@ -11,3 +11,4 @@ hal_client_domain(system_server, hal_lineage_trust)
 hal_client_domain(system_server, hal_lineage_powershare)
 
 add_service(system_server, longshot_service)
+
